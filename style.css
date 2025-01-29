@@ -517,11 +517,8 @@ form a{
         margin-right:10px;
 
     }
-    .nav-items{
-        padding-top: 10px;
-    }
     .nav-item{
-        margin-top:2.5rem;
+        margin-top:-2.5rem;
         position: sticky;
     }
     .menu-button svg{
