@@ -528,9 +528,10 @@ form a{
         position: relative;
         fill:#f5d8d8;
         z-index: 3;
+        margin-top:-0.3rem;
     }
     .menu-buttons{
-      padding: 3px;
+      padding: 5px;
     }
     .form-container{
         width: 200px;
